@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 <p>
-  Before delving into the specifics of this project, it's essential to understand the journey that led to its creation. Initially, I embarked on this endeavor with the intent of gaining a deeper understanding of the underlying dataset. This journey began with the exploration of key figures and metrics that I found intriguing, leading to the creation of a Dashboard that highlighted various aspects of Citi-Bike data from the year 2014.
+  Before delving into the specifics of this project, it's essential to understand the journey that led to its creation. Initially, I embarked on this endeavor with the intent of gaining a deeper understanding of the underlying dataset. This journey began with the exploration of key figures and metrics from Citi-Bike data in 2014, leading to the creation of a Dashboard that highlighted various aspects of Citi-Bike data from the year 2014. Through detailed analysis and visualization, the Dashboard unraveled insights into the evolution of Citi-Bike rides in July from 2014 to 2018 to 2023, including trends in trip counts, ride durations, start locations, hours of the day, and popularity over time. The project delves into the changes in Citi-Bike rides over nearly a decade, investigates factors influencing ride patterns, and uncovers intriguing shifts in rider behavior. Each section of this README will provide a glimpse into these explorations, offering a comprehensive view of the Citi-Bike system's evolution and dynamics in New York City.
 </p>
 
 <h2>Citi-Bike Dashboard 2014</h2>
