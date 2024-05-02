@@ -38,3 +38,47 @@
   The summer month of July witnessed the highest ride frequency, accompanied by shorter average ride durations compared to surrounding summer months. This observation hinted at user behaviors and preferences during peak summer months, agreeing with the assumption that longer rides occur during cooler periods. Another wildcard was the spike in February, to which after research makes no sense because not only is February on record a snowy month, the 2014 February overall, had 11 days where the high temperature did not get above freezing. While they also had a few unseasonably warm days, the extended periods of extreme cold brought the city's average monthly temperature down to 31.7°F. That is 3.3°F below normal. The only potential explanation is that because February had the least overall rides, on these unseasonably warm days, users went out for longer bike rides on average - shifting the overall month data in that favor.
 </p>
 
+<h2>How Citi-Bike Has Evolved 2014-2018-2023</h2>
+<p>
+  After seeing from our previous work that July was the most popular month, I wanted to see how July Citi-Bike rides have changed over the years.
+</p>
+
+<h3>Slide 1: Total Trips and Average Bike Trip Duration</h3>
+<p>
+  Slide 1 shows the total number of trips made in each of the 3 years in question and the average bike trip duration in color. My question was - what changes have happened over almost 10 years? Are there trends that we can see in 2018 that have fully realized effects in 2023? How has the trend of bike riding changed in NYC?
+</p>
+<p>
+  First thoughts reveal that the 2018 map has a wider range of data, allowing us to see data surrounding all of Central Park and Brooklyn. Bike duration times are higher around Central Park, which makes sense due to its scenic nature. The expansion of CitiBike from 2014 to 2018 shows a trend of the company growing throughout NYC and the datasets expanding.
+</p>
+<p>
+  Finally, in 2023, we see a significant growth trend in Brooklyn, almost doubling the expansion seen in 2014. The data has become extensive, particularly for July, making it challenging to draw strong conclusions from the map alone.
+</p>
+
+<h3>Slide 2: Total Count of Rides over Time</h3>
+<p>
+  Next, we move to a simple line graph showing the total count of rides over the years in the month of July. From 1M to 2M to almost 4M rides, the growth of Citibike being at 2x is remarkable! But another question arises: are bike ride durations growing too?
+</p>
+
+<h3>Slide 3: Trends in Bike Ride Durations</h3>
+<p>
+  This brings us to the third slide where we have a bar graph showing ride durations. Oddly enough, we see a spike in 2018 but a return in 2023. Such puzzling data begs the question - why would that happen?
+</p>
+<p>
+  Interestingly, in 2023, the New York State Department of Transportation made significant road improvements, leading to a spike in road construction that may have limited longer bike rides in NYC.
+</p>
+
+<h3>Slide 4: Trends in Start Locations and Average Bike Ride</h3>
+<p>
+  Slide 4 dives into trends in start locations and their average bike ride durations. Although conclusive mapping of road construction in 2023 was challenging due to the drop in ride times, we observe overall growth in some stations, a fall of popularity in others, and the creation and destruction of start locations for Citibike.
+</p>
+
+<h3>Slide 5: Trends in Hours of the Day over Time</h3>
+<p>
+  Moving to slide 5, we analyze trends in hours of the day over time. We see growth across the board, but the overall structure of when people are riding has remained relatively unchanged. However, we note a rise in nighttime bike rides, possibly influenced by nightlife and alcohol.
+</p>
+
+<h3>Slide 6: Year-by-Year Popularity in July</h3>
+<p>
+  Finally, the last slide provides a year-by-year comparison in the month of July, showing the popularity of bike rides on different days of the month. This slide summarizes all the data analyzed in this story, showcasing the overall expansion of Citibike over the last 10 years.
+</p>
+
