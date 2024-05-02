@@ -12,7 +12,7 @@
 </p>
 
 <h2>2014 Citi-Bike Storyh2>
-<h3>[https://public.tableau.com/app/profile/jack.maxwell2884/viz/Citi-BikeDashboard2014/StartStationDashboard](https://public.tableau.com/app/profile/jack.maxwell2884/viz/CityBikeStory14/Story1?publish=yes)</h3>
+<h3>(https://public.tableau.com/app/profile/jack.maxwell2884/viz/CityBikeStory14/Story1?publish=yes)</h3>
 <p>
   Diving deeper into the dataset, my exploration aimed to uncover patterns and behaviors associated with Citi-Bike stations and ridership. The first slide within the story presents a map detailing the starting locations of bike rides, providing an initial glimpse into the dynamics of bike usage across the city.
 </p>
