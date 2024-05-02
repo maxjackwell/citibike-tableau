@@ -8,15 +8,16 @@
 <h2>Citi-Bike Dashboard 2014</h2>
 <h3>https://public.tableau.com/app/profile/jack.maxwell2884/viz/Citi-BikeDashboard2014/StartStationDashboard</h3>
 <p>
-  The "Citi-Bike Dashboard 2014" encapsulates a multitude of insights derived from the 2014 Citi-Bike dataset. It features a comprehensive map showcasing all Citi-Bike locations and their usage frequency throughout the year, juxtaposed with the average bike ride duration per location. Additionally, the dashboard delves into the identification of the most popular stations, with a focused graphical representation of the top three stations and their monthly usage trends.
+  The "Citi-Bike Dashboard 2014" encapsulates a multitude of insights derived from the 2014 Citi-Bike dataset. It features a comprehensive map showcasing all Citi-Bike locations and their usage frequency throughout the year, juxtaposed with the average bike ride duration per location. Additionally, the dashboard delves into the identification of the most popular stations, with a focused graphical representation of the top three stations and their monthly usage trends. This was my tool to originally guide my questions and research.
+</p>
+
+<h2>2014 Citi-Bike Storyh2>
+<h3>[https://public.tableau.com/app/profile/jack.maxwell2884/viz/Citi-BikeDashboard2014/StartStationDashboard](https://public.tableau.com/app/profile/jack.maxwell2884/viz/CityBikeStory14/Story1?publish=yes)</h3>
+<p>
+  Diving deeper into the dataset, my exploration aimed to uncover patterns and behaviors associated with Citi-Bike stations and ridership. The first slide within the story presents a map detailing the starting locations of bike rides, providing an initial glimpse into the dynamics of bike usage across the city.
 </p>
 
 <h2>Exploring Patterns and Behaviors</h2>
-<p>
-  Diving deeper into the dataset, my exploration aimed to uncover patterns and behaviors associated with Citi-Bike stations and ridership. The first story within the dashboard presents a map detailing the starting locations of bike rides, providing an initial glimpse into the dynamics of bike usage across the city.
-</p>
-
-<h2>Transitioning to the Second Slide</h2>
 <p>
   Transitioning to the second slide on the story, the focus shifted towards understanding the end locations of bike rides, shedding light on whether the Citi-Bike system predominantly facilitated one-way trips or full-circle rides. This exploration was crucial in deciphering the operational dynamics of the Citi-Bike system within NYC, specifically addressing my initial question: are the rides primarily one-way trips or full-circle rides?
 </p>
@@ -40,6 +41,7 @@
 </p>
 
 <h2>How Citi-Bike Has Evolved 2014-2018-2023</h2>
+<h3>(https://public.tableau.com/app/profile/jack.maxwell2884/viz/JulyCiti-BikeOvertheYears/Story1?publish=yes)</h3>
 <p>
   After seeing from our previous work that July was the most popular month, I wanted to see how July Citi-Bike rides have changed over the years.
 </p>
